@@ -1,0 +1,726 @@
+# Compile of ckt.vhd failed with 1 errors.
+# Compile of C1.vhd failed with 1 errors.
+# Compile of C2.vhd failed with 1 errors.
+# Compile of C3.vhd failed with 1 errors.
+# Compile of C4.vhd failed with 1 errors.
+# Compile of C5.vhd failed with 1 errors.
+# 6 compiles, 6 failed with 6 errors.
+# Compile of C1.vhd failed with 1 errors.
+# Compile of ckt.vhd failed with 1 errors.
+# Compile of C1.vhd failed with 1 errors.
+# Compile of C2.vhd failed with 1 errors.
+# Compile of C3.vhd failed with 1 errors.
+# Compile of C4.vhd failed with 1 errors.
+# Compile of C5.vhd failed with 1 errors.
+# 6 compiles, 6 failed with 6 errors.
+# Compile of ckt.vhd failed with 1 errors.
+# Compile of C1.vhd failed with 1 errors.
+# Compile of C2.vhd failed with 1 errors.
+# Compile of C3.vhd failed with 1 errors.
+# Compile of C4.vhd failed with 1 errors.
+# Compile of C5.vhd failed with 1 errors.
+# 6 compiles, 6 failed with 6 errors.
+# Compile of ckt.vhd failed with 1 errors.
+# Compile of C1.vhd failed with 1 errors.
+# Compile of C2.vhd failed with 1 errors.
+# Compile of C3.vhd failed with 1 errors.
+# Compile of C4.vhd failed with 1 errors.
+# Compile of C5.vhd failed with 1 errors.
+# 6 compiles, 6 failed with 6 errors.
+# Compile of ckt.vhd failed with 1 errors.
+# Compile of C1.vhd failed with 1 errors.
+# Compile of C2.vhd failed with 1 errors.
+# Compile of C3.vhd failed with 1 errors.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd failed with 1 errors.
+# 6 compiles, 5 failed with 5 errors.
+# Compile of ckt.vhd failed with 1 errors.
+# Compile of C1.vhd failed with 1 errors.
+# Compile of C2.vhd failed with 1 errors.
+# Compile of C3.vhd failed with 1 errors.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd failed with 1 errors.
+# 6 compiles, 5 failed with 5 errors.
+# Compile of ckt.vhd failed with 2 errors.
+# Compile of C1.vhd failed with 1 errors.
+# Compile of C2.vhd failed with 1 errors.
+# Compile of C3.vhd failed with 1 errors.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd failed with 1 errors.
+# 6 compiles, 5 failed with 6 errors.
+# Compile of ckt.vhd failed with 2 errors.
+# Compile of C1.vhd failed with 1 errors.
+# Compile of C2.vhd was successful.
+# Compile of C3.vhd failed with 1 errors.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd failed with 1 errors.
+# 6 compiles, 4 failed with 5 errors.
+# Compile of ckt.vhd failed with 3 errors.
+# Compile of C1.vhd failed with 1 errors.
+# Compile of C2.vhd was successful.
+# Compile of C3.vhd failed with 1 errors.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd failed with 1 errors.
+# 6 compiles, 4 failed with 6 errors.
+# Compile of ckt.vhd was successful.
+# Compile of C1.vhd failed with 1 errors.
+# Compile of C2.vhd was successful.
+# Compile of C3.vhd failed with 1 errors.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd failed with 1 errors.
+# 6 compiles, 3 failed with 3 errors.
+# Compile of ckt.vhd was successful.
+# Compile of C1.vhd was successful.
+# Compile of C2.vhd was successful.
+# Compile of C3.vhd failed with 1 errors.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd failed with 1 errors.
+# 6 compiles, 2 failed with 2 errors.
+# Compile of ckt.vhd was successful.
+# Compile of C1.vhd was successful.
+# Compile of C2.vhd was successful.
+# Compile of C3.vhd was successful.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd failed with 1 errors.
+# 6 compiles, 1 failed with 1 error.
+# Compile of ckt.vhd was successful.
+# Compile of C1.vhd was successful.
+# Compile of C2.vhd was successful.
+# Compile of C3.vhd was successful.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+# Load canceled
+do sim.do
+# vsim TST 
+# Start time: 11:41:40 on Mar 09,2024
+# ** Error: (vsim-3170) Could not find 'TST'.
+#         Searched libraries:
+#             C:/Users/velyn/Downloads/CD/problema01/work
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./sim.do PAUSED at line 1
+do sim.do
+# vsim ckt 
+# Start time: 11:41:40 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+# ** UI-Msg (suppressible): (vsim-4008) Object 'A' not found.
+# Error in macro ./sim.do line 3
+# ** UI-Msg (suppressible): (vsim-4008) Object 'A' not found.
+# 
+#     while executing
+# "force A 0 0, 1 10, 0 33, 1 66"
+do sim.do
+# End time: 11:44:39 on Mar 09,2024, Elapsed time: 0:02:59
+# Errors: 1, Warnings: 23
+# vsim problema01 
+# Start time: 11:44:39 on Mar 09,2024
+# ** Error: (vsim-3170) Could not find 'problema01'.
+#         Searched libraries:
+#             C:/Users/velyn/Downloads/CD/problema01/work
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./sim.do PAUSED at line 1
+do sim.do
+# vsim ckt 
+# Start time: 11:44:39 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+# ** UI-Msg (suppressible): (vsim-4008) Object 'A' not found.
+# Error in macro ./sim.do line 3
+# ** UI-Msg (suppressible): (vsim-4008) Object 'A' not found.
+# 
+#     while executing
+# "force A 0 0, 1 10, 0 33, 1 66"
+do sim.do
+# End time: 11:57:38 on Mar 09,2024, Elapsed time: 0:12:59
+# Errors: 1, Warnings: 1
+# vsim ckt 
+# Start time: 11:57:38 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+# Compile of ckt.vhd failed with 16 errors.
+# Compile of C1.vhd was successful.
+# Compile of C2.vhd was successful.
+# Compile of C3.vhd was successful.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd was successful.
+# 6 compiles, 1 failed with 16 errors.
+# ** UI-Msg (suppressible): (vsim-4008) Object 'A' not found.
+# Error in macro ./sim.do line 3
+# ** UI-Msg (suppressible): (vsim-4008) Object 'A' not found.
+# 
+#     while executing
+# "force A 0 0, 1 10, 0 33, 1 66"
+# Compile of ckt.vhd failed with 16 errors.
+# Compile of C1.vhd was successful.
+# Compile of C2.vhd was successful.
+# Compile of C3.vhd was successful.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd was successful.
+# 6 compiles, 1 failed with 16 errors.
+# Compile of ckt.vhd failed with 1 errors.
+# Compile of C1.vhd was successful.
+# Compile of C2.vhd was successful.
+# Compile of C3.vhd was successful.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd was successful.
+# 6 compiles, 1 failed with 1 error.
+# Compile of ckt.vhd failed with 1 errors.
+# Compile of C1.vhd was successful.
+# Compile of C2.vhd was successful.
+# Compile of C3.vhd was successful.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd was successful.
+# 6 compiles, 1 failed with 1 error.
+add wave *
+force A 0 0, 1 10, 0 33, 1 66
+# ** UI-Msg (suppressible): (vsim-4008) Object 'A' not found.
+# 
+force B 0 0, 1 20 -repeat 40
+# ** UI-Msg (suppressible): (vsim-4008) Object 'B' not found.
+# 
+run 80
+force -freeze sim:/ckt/v 0000 0
+run
+run
+# Compile of ckt.vhd failed with 1 errors.
+# Compile of C1.vhd was successful.
+# Compile of C2.vhd was successful.
+# Compile of C3.vhd was successful.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd was successful.
+# 6 compiles, 1 failed with 1 error.
+# Compile of ckt.vhd was successful.
+# Compile of C1.vhd was successful.
+# Compile of C2.vhd was successful.
+# Compile of C3.vhd was successful.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+do sim.do
+# End time: 12:36:12 on Mar 09,2024, Elapsed time: 0:38:34
+# Errors: 0, Warnings: 7
+# vsim ckt 
+# Start time: 12:36:12 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+# ** UI-Msg (suppressible): (vsim-4008) Object 'ckt' not found.
+# Error in macro ./sim.do line 3
+# ** UI-Msg (suppressible): (vsim-4008) Object 'ckt' not found.
+# 
+#     while executing
+# "force ckt 0,0,0,0"
+force -freeze sim:/ckt/v 0000 0
+run
+force -freeze sim:/ckt/v 0001 0
+run
+force -freeze sim:/ckt/v 0010 0
+run
+force -freeze sim:/ckt/v 0011 0
+run
+force -freeze sim:/ckt/v 0100 0
+run
+force -freeze sim:/ckt/v 0101 0
+run
+force -freeze sim:/ckt/v 0110 0
+run
+force -freeze sim:/ckt/v 0111 0
+run
+force -freeze sim:/ckt/v 1000 0
+run -continue
+run
+force -freeze sim:/ckt/v 1001 0
+run
+# Compile of ckt.vhd was successful.
+# Compile of C1.vhd was successful.
+# Compile of C2.vhd was successful.
+# Compile of C3.vhd was successful.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+do sim.do
+# End time: 13:00:01 on Mar 09,2024, Elapsed time: 0:23:49
+# Errors: 0, Warnings: 2
+# vsim ckt 
+# Start time: 13:00:01 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+# ** UI-Msg (suppressible): (vsim-4008) Object 'w,x,y,z' not found.
+# Error in macro ./sim.do line 3
+# ** UI-Msg (suppressible): (vsim-4008) Object 'w,x,y,z' not found.
+# 
+#     while executing
+# "force w,x,y,z 0 0"
+do sim.do
+# End time: 13:01:15 on Mar 09,2024, Elapsed time: 0:01:14
+# Errors: 0, Warnings: 1
+# vsim ckt 
+# Start time: 13:01:15 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+# ** UI-Msg (suppressible): (vsim-4008) Object 'w' not found.
+# Error in macro ./sim.do line 3
+# ** UI-Msg (suppressible): (vsim-4008) Object 'w' not found.
+# 
+#     while executing
+# "force w 0 0"
+do sim.do
+# End time: 13:02:20 on Mar 09,2024, Elapsed time: 0:01:05
+# Errors: 0, Warnings: 1
+# vsim ckt 
+# Start time: 13:02:20 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+force -freeze sim:/ckt/v 0000 0
+run
+force -freeze sim:/ckt/v 0001 0
+run
+force -freeze sim:/ckt/v 0010 0
+run
+# Compile of ckt.vhd was successful.
+# Compile of C1.vhd was successful.
+# Compile of C2.vhd was successful.
+# Compile of C3.vhd was successful.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+# Compile of ckt.vhd was successful.
+# Compile of C1.vhd was successful.
+# Compile of C2.vhd was successful.
+# Compile of C3.vhd was successful.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+do sim.do
+# End time: 13:09:38 on Mar 09,2024, Elapsed time: 0:07:18
+# Errors: 0, Warnings: 3
+# vsim ckt 
+# Start time: 13:09:38 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+force -freeze sim:/ckt/v 0000 0
+run
+force -freeze sim:/ckt/v 0001 0
+run
+# Compile of ckt.vhd was successful.
+# Compile of C1.vhd was successful.
+# Compile of C2.vhd was successful.
+# Compile of C3.vhd was successful.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+do sim.do
+# End time: 13:12:04 on Mar 09,2024, Elapsed time: 0:02:26
+# Errors: 0, Warnings: 2
+# vsim ckt 
+# Start time: 13:12:04 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+# A time value could not be extracted from the current line
+force -freeze sim:/ckt/v 0000 0
+run
+force -freeze sim:/ckt/v 0001 0
+run
+force -freeze sim:/ckt/v 0010 0
+force -freeze sim:/ckt/v 0010 0
+run
+force -freeze sim:/ckt/v 0011 0
+run
+force -freeze sim:/ckt/v 0100 0
+run
+# Compile of ckt.vhd was successful.
+# Compile of C1.vhd was successful.
+# Compile of C2.vhd was successful.
+# Compile of C3.vhd was successful.
+# Compile of C4.vhd failed with 1 errors.
+# Compile of C5.vhd was successful.
+# 6 compiles, 1 failed with 1 error.
+# Compile of ckt.vhd was successful.
+# Compile of C1.vhd was successful.
+# Compile of C2.vhd was successful.
+# Compile of C3.vhd was successful.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+do sim.do
+# End time: 13:29:25 on Mar 09,2024, Elapsed time: 0:17:21
+# Errors: 0, Warnings: 3
+# vsim ckt 
+# Start time: 13:29:25 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+# A time value could not be extracted from the current line
+force -freeze sim:/ckt/v 000 0
+# Value length (3) does not equal array index length (4).
+# ** UI-Msg: (vsim-4011) Invalid force value: 000 0.
+# 
+force -freeze sim:/ckt/v 0000 0
+run
+force -freeze sim:/ckt/v 0001 0
+run
+force -freeze sim:/ckt/v 0010 0
+run
+force -freeze sim:/ckt/v 0011 0
+run
+force -freeze sim:/ckt/v 0100 0
+run
+force -freeze sim:/ckt/v 0101 0
+run
+force -freeze sim:/ckt/v 0110 0
+run
+force -freeze sim:/ckt/v 0111 0
+run
+force -freeze sim:/ckt/v 1000 0
+run
+force -freeze sim:/ckt/v 1001 0
+run
+do sim.do
+# End time: 14:31:03 on Mar 09,2024, Elapsed time: 1:01:38
+# Errors: 0, Warnings: 1
+# vsim ckt 
+# Start time: 14:31:04 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+do sim.do
+# End time: 14:32:33 on Mar 09,2024, Elapsed time: 0:01:29
+# Errors: 0, Warnings: 1
+# vsim ckt 
+# Start time: 14:32:33 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+do sim.do
+# End time: 14:33:04 on Mar 09,2024, Elapsed time: 0:00:31
+# Errors: 0, Warnings: 1
+# vsim ckt 
+# Start time: 14:33:04 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+do sim.do
+# End time: 14:35:27 on Mar 09,2024, Elapsed time: 0:02:23
+# Errors: 0, Warnings: 1
+# vsim ckt 
+# Start time: 14:35:27 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+# ** UI-Msg: (vsim-4007) A value argument is required.
+# Usage: force [-deposit | -drive | -freeze] [-cancel <period>] [-repeat <period>] <item_name> <value> [<time>] [, <value> <time> ...]
+# Error in macro ./sim.do line 3
+# ** UI-Msg: (vsim-4007) A value argument is required.
+# Usage: force [-deposit | -drive | -freeze] [-cancel <period>] [-repeat <period>] <item_name> <value> [<time>] [, <value> <time> ...]
+#     while executing
+# "force /ckt/v 0000 0,0001 100,0010 200,0011 300,0100 400,"
+# A time value could not be extracted from the current line
+do sim.do
+# End time: 14:36:23 on Mar 09,2024, Elapsed time: 0:00:56
+# Errors: 0, Warnings: 1
+# vsim ckt 
+# Start time: 14:36:23 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+# Compile of ckt.vhd failed with 1 errors.
+# Compile of C1.vhd was successful.
+# Compile of C2.vhd was successful.
+# Compile of C3.vhd was successful.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd was successful.
+# 6 compiles, 1 failed with 1 error.
+# Compile of ckt.vhd failed with 1 errors.
+# Compile of C1.vhd was successful.
+# Compile of C2.vhd was successful.
+# Compile of C3.vhd was successful.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd was successful.
+# 6 compiles, 1 failed with 1 error.
+# Compile of ckt.vhd was successful.
+# Compile of C1.vhd was successful.
+# Compile of C2.vhd was successful.
+# Compile of C3.vhd was successful.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+# Compile of ckt.vhd was successful.
+# Compile of C1.vhd was successful.
+# Compile of C2.vhd was successful.
+# Compile of C3.vhd was successful.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+do sim.do
+# End time: 14:41:53 on Mar 09,2024, Elapsed time: 0:05:30
+# Errors: 0, Warnings: 5
+# vsim ckt 
+# Start time: 14:41:53 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+do sim.do
+# End time: 14:44:25 on Mar 09,2024, Elapsed time: 0:02:32
+# Errors: 0, Warnings: 1
+# vsim ckt 
+# Start time: 14:44:25 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+# A time value could not be extracted from the current line
+do sim.do
+# End time: 14:45:12 on Mar 09,2024, Elapsed time: 0:00:47
+# Errors: 0, Warnings: 1
+# vsim ckt 
+# Start time: 14:45:12 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+do sim.do
+# End time: 14:46:58 on Mar 09,2024, Elapsed time: 0:01:46
+# Errors: 0, Warnings: 1
+# vsim ckt 
+# Start time: 14:46:58 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+# WARNING: No extended dataflow license exists
+do sim.do
+# End time: 14:52:43 on Mar 09,2024, Elapsed time: 0:05:45
+# Errors: 0, Warnings: 1
+# vsim ckt 
+# Start time: 14:52:43 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+# WARNING: No extended dataflow license exists
+do sim.do
+# End time: 14:55:03 on Mar 09,2024, Elapsed time: 0:02:20
+# Errors: 0, Warnings: 1
+# vsim ckt 
+# Start time: 14:55:03 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+# A time value could not be extracted from the current line
+do sim.do
+# End time: 14:56:27 on Mar 09,2024, Elapsed time: 0:01:24
+# Errors: 0, Warnings: 1
+# vsim ckt 
+# Start time: 14:56:27 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+# A time value could not be extracted from the current line
+# WARNING: No extended dataflow license exists
+do sim.do
+# End time: 15:06:44 on Mar 09,2024, Elapsed time: 0:10:17
+# Errors: 0, Warnings: 1
+# vsim ckt 
+# Start time: 15:06:44 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+# A time value could not be extracted from the current line
+vlog -work {$MODEL_TECH/../ieee} -refresh -force_refresh
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:08:13 on Mar 09,2024
+# vlog -reportprogress 300 -work $MODEL_TECH/../ieee -refresh -force_refresh 
+# ** Error: (vlog-66) Execution of vlib.exe failed. Please check the error log for more details.
+# End time: 15:08:13 on Mar 09,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+vcom -work {$MODEL_TECH/../ieee} -refresh -force_refresh
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:08:13 on Mar 09,2024
+# vcom -reportprogress 300 -work $MODEL_TECH/../ieee -refresh -force_refresh 
+# ** Error: (vcom-66) Execution of vlib.exe failed. Please check the error log for more details.
+# End time: 15:08:13 on Mar 09,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vcom failed.
+do sim.do
+# End time: 15:08:32 on Mar 09,2024, Elapsed time: 0:01:48
+# Errors: 0, Warnings: 1
+# vsim ckt 
+# Start time: 15:08:32 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+do sim.do
+# End time: 17:44:12 on Mar 09,2024, Elapsed time: 2:35:40
+# Errors: 0, Warnings: 1
+# vsim ckt 
+# Start time: 17:44:12 on Mar 09,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ckt(log)
+# Loading work.c1(log)
+# Loading work.c2(log)
+# Loading work.c3(log)
+# Loading work.c4(log)
+# Loading work.c5(log)
+# Compile of ckt.vhd was successful.
+# Compile of C1.vhd was successful.
+# Compile of C2.vhd was successful.
+# Compile of C3.vhd was successful.
+# Compile of C4.vhd was successful.
+# Compile of C5.vhd was successful.
+# 6 compiles, 0 failed with no errors.

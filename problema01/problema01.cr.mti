@@ -1,0 +1,41 @@
+C:/Users/velyn/Downloads/CD/problema01/C5.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/problema01/C5.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity C5
+-- Compiling architecture log of C5
+
+} {} {}} C:/Users/velyn/Downloads/CD/problema01/C1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/problema01/C1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity C1
+-- Compiling architecture log of C1
+
+} {} {}} C:/Users/velyn/Downloads/CD/problema01/C2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/problema01/C2.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity C2
+-- Compiling architecture log of C2
+
+} {} {}} C:/Users/velyn/Downloads/CD/problema01/ckt.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/problema01/ckt.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ckt
+-- Compiling architecture log of ckt
+
+} {} {}} C:/Users/velyn/Downloads/CD/problema01/C3.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/velyn/Downloads/CD/problema01/C3.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity C3
+-- Compiling architecture log of C3
+
+} {} {}}

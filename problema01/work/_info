@@ -1,0 +1,257 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+Ec1
+Z0 w1709993913
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 139
+Z3 dC:/Users/velyn/Downloads/CD/problema01
+Z4 8C:/Users/velyn/Downloads/CD/problema01/C1.vhd
+Z5 FC:/Users/velyn/Downloads/CD/problema01/C1.vhd
+l0
+L4 1
+VdcA]GM<M:?>;33^A0ROMo0
+!s100 DQo7PA?ALbM;UH^BO>VYj0
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1710017069
+!i10b 1
+Z8 !s108 1710017069.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/problema01/C1.vhd|
+Z10 !s107 C:/Users/velyn/Downloads/CD/problema01/C1.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Alog
+R1
+R2
+DEx4 work 2 c1 0 22 dcA]GM<M:?>;33^A0ROMo0
+!i122 139
+l11
+L9 7
+VE@15Ti4C_d6SOkhi0[5:Z2
+!s100 CMB@2@V[_5ilI4TicHX;n1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ec2
+Z13 w1709993213
+R1
+R2
+!i122 140
+R3
+Z14 8C:/Users/velyn/Downloads/CD/problema01/C2.vhd
+Z15 FC:/Users/velyn/Downloads/CD/problema01/C2.vhd
+l0
+L4 1
+V4T3=4=f4_11_SQdXY0fZo2
+!s100 7NBHG^CXnA:3J<XAO`7?k2
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/problema01/C2.vhd|
+Z17 !s107 C:/Users/velyn/Downloads/CD/problema01/C2.vhd|
+!i113 1
+R11
+R12
+Alog
+R1
+R2
+DEx4 work 2 c2 0 22 4T3=4=f4_11_SQdXY0fZo2
+!i122 140
+l11
+L9 7
+VJO^1kkk:ihb?_cg:_NT5`0
+!s100 KbW]QZM2@S0k4O66YgQG32
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Ec3
+Z18 w1710000640
+R1
+R2
+!i122 141
+R3
+Z19 8C:/Users/velyn/Downloads/CD/problema01/C3.vhd
+Z20 FC:/Users/velyn/Downloads/CD/problema01/C3.vhd
+l0
+L4 1
+V4HIJDM:eCRl:0nEcSanMc0
+!s100 9DUE8ILf>cS;iiUIgN21_0
+R6
+32
+R7
+!i10b 1
+R8
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/problema01/C3.vhd|
+Z22 !s107 C:/Users/velyn/Downloads/CD/problema01/C3.vhd|
+!i113 1
+R11
+R12
+Alog
+R1
+R2
+DEx4 work 2 c3 0 22 4HIJDM:eCRl:0nEcSanMc0
+!i122 141
+l11
+L9 7
+V[N?zD3Oo[D=bkh6C7hjUg0
+!s100 oe4FoXzSTXW>ZSoRjR0;Z1
+R6
+32
+R7
+!i10b 1
+R8
+R21
+R22
+!i113 1
+R11
+R12
+Ec4
+Z23 w1710017037
+R1
+R2
+!i122 142
+R3
+Z24 8C:/Users/velyn/Downloads/CD/problema01/C4.vhd
+Z25 FC:/Users/velyn/Downloads/CD/problema01/C4.vhd
+l0
+L4 1
+V5aV[IH[9]4aH3Da]TFWaB3
+!s100 ?jOM9fR6m?2`DcmAlb@;i1
+R6
+32
+R7
+!i10b 1
+R8
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/problema01/C4.vhd|
+Z27 !s107 C:/Users/velyn/Downloads/CD/problema01/C4.vhd|
+!i113 1
+R11
+R12
+Alog
+R1
+R2
+DEx4 work 2 c4 0 22 5aV[IH[9]4aH3Da]TFWaB3
+!i122 142
+l11
+L9 8
+V`H4KGg>6ZZAQG:7dDeUjz1
+!s100 Nf]lj6OGU_5FRgd4>]d:Y1
+R6
+32
+R7
+!i10b 1
+R8
+R26
+R27
+!i113 1
+R11
+R12
+Ec5
+Z28 w1709994010
+R1
+R2
+!i122 143
+R3
+Z29 8C:/Users/velyn/Downloads/CD/problema01/C5.vhd
+Z30 FC:/Users/velyn/Downloads/CD/problema01/C5.vhd
+l0
+L4 1
+VOMCfE=2GI<87I_<]19lX30
+!s100 ;SY8XFaEiP^XPbLzA0h@`1
+R6
+32
+Z31 !s110 1710017070
+!i10b 1
+R8
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/problema01/C5.vhd|
+Z33 !s107 C:/Users/velyn/Downloads/CD/problema01/C5.vhd|
+!i113 1
+R11
+R12
+Alog
+R1
+R2
+Z34 DEx4 work 2 c5 0 22 OMCfE=2GI<87I_<]19lX30
+!i122 143
+l11
+L9 7
+Z35 V=]G0@9bE7H^=?IoIWH<QB0
+Z36 !s100 hDILdDcDLE6jBeOfJz?z`3
+R6
+32
+R31
+!i10b 1
+R8
+R32
+R33
+!i113 1
+R11
+R12
+Eckt
+Z37 w1710006087
+R1
+R2
+!i122 138
+R3
+Z38 8C:/Users/velyn/Downloads/CD/problema01/ckt.vhd
+Z39 FC:/Users/velyn/Downloads/CD/problema01/ckt.vhd
+l0
+L4 1
+VYlObc834>2`J]Q6=HUMBb2
+!s100 SK]69WigQEH4Ge5n8gD_J2
+R6
+32
+R7
+!i10b 1
+R8
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/velyn/Downloads/CD/problema01/ckt.vhd|
+Z41 !s107 C:/Users/velyn/Downloads/CD/problema01/ckt.vhd|
+!i113 1
+R11
+R12
+Alog
+R1
+R2
+DEx4 work 3 ckt 0 22 YlObc834>2`J]Q6=HUMBb2
+!i122 138
+l36
+L9 34
+V<BhG=V4NHmoA4?4m=CG3_1
+!s100 @]^BmKeW:YdMfe9jV_BTM3
+R6
+32
+R7
+!i10b 1
+R8
+R40
+R41
+!i113 1
+R11
+R12
